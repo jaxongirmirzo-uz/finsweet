@@ -46,7 +46,6 @@
 
 .updates__input {
   width: 454px;
-  /* max-width: 454px; */
   height: 64px;
   border: 0;
 }
@@ -66,13 +65,7 @@
 
 /* navbar start */
 .navbar {
-  width: 100%;
-  max-width: 1278px;
   color: #232536;
-}
-.navbar-container {
-  display: flex;
-  justify-content: space-between;
 }
 
 .navbar-content {

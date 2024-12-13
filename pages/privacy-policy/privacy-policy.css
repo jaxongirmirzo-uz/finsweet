@@ -1,0 +1,63 @@
+@import "/css/global.css";
+
+.privacy-intro {
+}
+.privay-intro-container {
+  padding-top: 96px;
+  padding-bottom: 72px;
+  display: flex;
+  flex-direction: column;
+}
+.privacy-title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  margin-bottom: 8px;
+}
+.privacy-smalltitle {
+  opacity: 0.6;
+}
+
+/* privacy texts start */
+.privacy-info-container {
+  background-color: #ecf8f9;
+}
+.privacy-info-text {
+  padding: 96px 218px 96px 221px;
+}
+.privacy-info-title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  margin-bottom: 24px;
+}
+.p-one {
+  margin-bottom: 24px;
+}
+.p-two {
+  margin-bottom: 24px;
+}
+.p-three {
+  margin-bottom: 24px;
+}
+.p-four {
+  margin-bottom: 40px;
+}
+.privacy-title-two {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  margin-bottom: 16px;
+}
+.privacy-description {
+}
+.privacy-description-three {
+}
+/* privacy texts end */
+
+.privacy-texts-bg {
+  width: 100%;
+  max-width: 296px;
+  margin-left: 60px;
+  margin-bottom: 120px;
+}
